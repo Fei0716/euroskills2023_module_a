@@ -1,3 +1,8 @@
+![home](https://github.com/user-attachments/assets/bfb1fe19-8857-422b-87cf-6ee432930373)
+![pricing](https://github.com/user-attachments/assets/6004592d-71c5-4ae0-831d-581d5a47b042)
+![product](https://github.com/user-attachments/assets/9adc5fc1-7e15-4b97-9ed5-d4615df7090f)
+![team](https://github.com/user-attachments/assets/513cc4d3-d0eb-45c4-8a52-6273a7394569)
+
 # Module A – Static Website Design
 
 In this module, you are expected to develop a static website for a client using HTML and CSS only.
